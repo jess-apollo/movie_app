@@ -3,7 +3,7 @@
 React JS Fundmentals Course (2019 Updated!)
 
 
-* (testq)[#test]
+* [test](#test)
 
 
 ## test
